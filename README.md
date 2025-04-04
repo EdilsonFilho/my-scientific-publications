@@ -31,13 +31,21 @@ I present some projects I have worked on that resulted in scientific publication
 
 ***International Conference**: PIDfet- Conference on Persistent Identifiers 2024
 
-### 5 ELICITATION: A Satellite Constellation Simulator Using Multi-Agent Systems, Blockchain and the IoMT
+### 5. ELICITATION: A Satellite Constellation Simulator Using Multi-Agent Systems, Blockchain and the IoMT
 
 **International Conference** EEE Symposium on Computers and Communications (ISCC) 2024
 
 **Abstract**: With the continuous increase in the number of satellites orbiting Earth, the efficient and coordinated management of these assets becomes a critical concern. This paper introduces the innovative project Elicitation, a simulator for satellite constellations based on Multi-Agent Systems (MAS), Blockchain, and the Internet of Mobile Things (IoMT). The current scenario highlights growing challenges in the supervision and coordination of satellites, emphasizing the need for automated solutions. Elicitation addresses this complexity by integrating MAS to simulate dynamic interactions between satellites in Earth climate monitoring tasks, taking advantage of blockchain technology to guarantee the security, transparency and integrity of the data generated. One notable aspect that contributes to Elicitation’s appeal is its ability to take advantage of authentic satellite positioning data and real information relating to natural events. Consequently, the system operates autonomously to identify the ideal satellite capable of capturing data related to natural events at any given time. The average decision time per agent was 0.19 seconds for a collective set of 11 agents, corresponding to 11 satellites in a 120-day dataset with 43 target events.
 
 **Access Link**: https://ieeexplore.ieee.org/document/10733588 
+
+### 6. NASCERR: Nanosatellite with Electronics Radiation Robust
+
+**International Conference**: International Conference on Global Aeronautical Engineering and Satellite Technology (GAST) 2024
+
+**Abstract**: Faced with increasing access to and demand for space products space products, educational/research institutions and private companies need space devices that are robust and tolerant of faults and space adversities, such as radiation. The NASCERR mission aims to homologate a new version of an onboard computer for CubeSat missions with a strong emphasis on fault tolerance, the ROBC. In addition to redundancy in the power supply and voltage control system, the system also has error correction codes to protect the data in memory, thus offering greater reliability of the data stored by the sensors and stored by the sensors and sent to Earth. The ROBC passed the thermal tests and the error-correcting codes for memory protection were applied to protect the SRAM, bringing greater reliability to the data stored by the sensors. The NASCERR project is is a partnership between universities and the private sector, financed by the Brazilian government
+
+**Access Link**: https://ieeexplore.ieee.org/document/10520763
 
 
 
