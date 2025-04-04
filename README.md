@@ -29,7 +29,7 @@ I present some projects I have worked on that resulted in scientific publication
 
 ### 4. Bridging the Gap: Implementing the Decentralized Archival Resource Key (dARK) - The Evolution from Proof of Concept to Service Implementation
 
-***International Conference**: PIDfet- Conference on Persistent Identifiers 2024
+**International Conference**: PIDfet- Conference on Persistent Identifiers 2024
 
 ### 5. ELICITATION: A Satellite Constellation Simulator Using Multi-Agent Systems, Blockchain and the IoMT
 
@@ -46,6 +46,27 @@ I present some projects I have worked on that resulted in scientific publication
 **Abstract**: Faced with increasing access to and demand for space products space products, educational/research institutions and private companies need space devices that are robust and tolerant of faults and space adversities, such as radiation. The NASCERR mission aims to homologate a new version of an onboard computer for CubeSat missions with a strong emphasis on fault tolerance, the ROBC. In addition to redundancy in the power supply and voltage control system, the system also has error correction codes to protect the data in memory, thus offering greater reliability of the data stored by the sensors and stored by the sensors and sent to Earth. The ROBC passed the thermal tests and the error-correcting codes for memory protection were applied to protect the SRAM, bringing greater reliability to the data stored by the sensors. The NASCERR project is is a partnership between universities and the private sector, financed by the Brazilian government
 
 **Access Link**: https://ieeexplore.ieee.org/document/10520763
+
+### 7. dARK: uma implementação descentralizada de identificadores persistentes ARK baseada em blockchain
+
+**Journal**: BiblioCanto 
+
+**Access Link**: https://doi.org/10.21680/2447-7842.2023v9n2id33759
+
+### 8. Blockchain Applied In Decentralization of Ground Stations To Educational Nanosatellites
+
+**International Conference**: IEEE 24th Latin American Test Symposium (LATS) 2023
+
+**Abstract**: Space has increasingly attracted the attention of governments, large industries, and universities. One of the most popular strategies in recent years has been the adoption of nanosatellites to fulfill different missions, which can work alone or in constellations. Universities stand out among the agents launching nanosatellites, with more than 600 launches until 2022. Given the growth of entities that control space missions, it is necessary to implement new methods for communication between control and satellite to accelerate data transmission and provide a high-security degree. Our work proposes a consortium archi-tecture between Ground Stations (GSs) so that a GS as a Service (GSaaS) works with low cost, reliability, and resource sharing. We simulated a nanosatellite mission in Low Earth Orbit (LEO) with MATLAB to obtain the parameters of average communication time, propagation loss, and at which angles the communication would be most affected by atmospheric phenomena. Then, we implement business rules for communication between GS and satellites using smart contract concepts. We set up a blockchain to provide the decentralization infrastructure and created a web service to provide a communication API between nanosatellite and blockchain.
+
+**Access Link**: https://ieeexplore.ieee.org/document/10154485
+
+### 9. Blockchain Applied in the Update the Firmware of Educational Nanosatellites.
+
+**International Conference**: 3rd IAA Latin American Symposium on Small Satellites
+
+**Access Link**: https://doi.org/10.5281/zenodo.7448760
+
 
 
 
